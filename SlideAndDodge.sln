@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideAndDodge", "Assembly-CSharp.csproj", "{F33A821D-9CA7-E06C-5F7E-3E978EA2A63B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlideAndDodge", "Assembly-CSharp-Editor.csproj", "{C7AE18BF-F415-9C45-9A94-3702799F9336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F33A821D-9CA7-E06C-5F7E-3E978EA2A63B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33A821D-9CA7-E06C-5F7E-3E978EA2A63B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F33A821D-9CA7-E06C-5F7E-3E978EA2A63B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33A821D-9CA7-E06C-5F7E-3E978EA2A63B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7AE18BF-F415-9C45-9A94-3702799F9336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7AE18BF-F415-9C45-9A94-3702799F9336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7AE18BF-F415-9C45-9A94-3702799F9336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7AE18BF-F415-9C45-9A94-3702799F9336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

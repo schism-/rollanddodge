@@ -1,0 +1,36 @@
+===GAMEPLAY===
+[x] increasing difficulty
+[x] game over
+[ ] leaderboard
+[x] better collectible spawn (not on player)
+
+
+===UI===
+[x] initial menu
+[ ] in-game menu
+[x] game over menu
+
+
+===ESTETICA ===
+[x] different materials for power ups
+
+[x] animazione rottura ostacoli (instanzia 20 cubi + michael bay)
+[ ] animazione catch power up
+[ ] animazione disappear powerup
+[ ] transizioni power up / power down
+
+[ ] better lighting
+[ ] some post processing
+
+[ ] trova una musica
+[ ] suono dopo ogni wave
+
+[ ] rifinisci il mondo (piante, erba, sfondo, ....)
+
+[ ] aggiungi ads
+
+++++++++ FUTURE WORK +++++++++
+
+more power ups
+interchangeable player skins
+in-app coins (usable to unlock skins)
